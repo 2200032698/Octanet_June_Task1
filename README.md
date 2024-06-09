@@ -29,4 +29,4 @@ Multipage Design
 Font Awesome Icon Font
 Social Media Links & Icons
 Newsletter Subscription Form UI
-### Live Preview: 
+### Live Preview: https://2200032698.github.io/Octanet_June_Task1/
