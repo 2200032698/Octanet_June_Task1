@@ -1,4 +1,5 @@
 # Coffo Website
+Coffo Website is used to check the posts from blog section and to buy the coffee in the shop through location
 ### Task-1: "Landing Page Creation"
 ### Software Tool Used: Visual Studio
 ### Languages Used: HTML, CSS, JS
